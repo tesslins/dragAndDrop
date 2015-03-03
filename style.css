@@ -1,0 +1,12 @@
+body {
+	background: #E4F8f7;
+	margin: 0;
+	padding: 0;
+	/*static page width, NOT responsive*/
+	width: 1000px;
+	height: 1000px;
+}
+
+[draggable] {
+	cursor: move;
+}
